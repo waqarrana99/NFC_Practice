@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">NFC Practice</string>
+
+    <string name="this_device_has_not_official_nano_product">This device has not official BB NFC product.</string>
+    <string name="plz_visit_our_website">PLease visit our website www.bbnfc.com</string>
+    <string name="your_account_is_active_now">Your account is activte now.</string>
+    <string name="contact_admin_for_support">Contact Admin for support</string>
+    <string name="this_product_is_not_listed_in_our_stock">This product is not listed in our stock.</string>
+    <string name="this_tag_already_userd_by_someone">This tag is already used by someone else.</string>
+    <string name="empty_tag">Empty Tag</string>
+    <string name="press_btn">Press button</string>
+    <string name="enable_nfc">Enable NFC</string>
+    <string name="nfc_not_sopported">NFC not supported</string>
 </resources>
